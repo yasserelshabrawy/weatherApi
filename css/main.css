@@ -1,0 +1,35 @@
+section {
+    background-image: url(../pexels-pixabay-209831.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+.forecast-header{
+    background: rgba(0, 0, 0, 0.1);
+}
+.forecast{
+    background-color: #1e202b;
+}
+.social li{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom{
+    color: #009ad8;
+}
+#forecast{
+    color:#bfc1c8 ;
+}
+.submit{
+bottom: 0px;
+padding: 6.5px 35px;
+border-radius: 30px;
+}
+.form-control{
+    border-radius: 30px;
+}
